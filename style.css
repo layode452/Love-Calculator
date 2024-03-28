@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
+
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url(images/freestocks-Y9mWkERHYCU-unsplash.jpg);
+    background-size: cover;
+    background-position: 0px -900px;
+}
+
+.heading h1{
+    font-weight: 900;
+    font-family: "Rakkas", serif;
+    color: #8D473A;
+    text-shadow: 5px 4px 5px rgba(0, 0, 0, 0.5);
+}
+
+.loveIn{
+    margin-top:50px !important;
+    margin: auto;
+    padding: 10px 0 80px 0;
+    border-radius: 10px;
+    width: 800px;
+    background: linear-gradient(to bottom, white, pink, #924C3D);
+    border: 2px solid pink;
+}
